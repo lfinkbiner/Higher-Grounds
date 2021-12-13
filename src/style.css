@@ -46,7 +46,7 @@ a {
 .food {
   border: 6px solid var(--primary-color);
   background: white;
-  padding: 30px;
+  padding: 40px;
   margin: 0 50px 50px 50px;
 }
 
