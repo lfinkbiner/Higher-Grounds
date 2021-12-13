@@ -46,15 +46,15 @@ a {
 .food {
   border: 6px solid var(--primary-color);
   background: white;
-  padding: 50px;
-  margin: 50px;
+  padding: 20px;
+  margin: 0 50px 50px 50px;
 }
 
 .drinks {
   border: 6px solid var(--primary-color);
   background: white;
-  padding: 20px 5px 20px 20px;
-  margin: 50px;
+  padding: 20px 0 20px 20px;
+  margin: 0 50px 50px 50px;
 }
 
 li {
